@@ -68,8 +68,13 @@ export default {
           height: auto;
         }
       }
+      
+      h1 {
+      color: #000;
+      }
 
       .subheading {
+        color: #000;
         &:nth-of-type(2) {
          margin-bottom: 1em;
          color: #787878;
