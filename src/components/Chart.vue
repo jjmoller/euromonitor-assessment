@@ -1,6 +1,6 @@
 <script>
 export const data = {
-  labels: [null, '2015', '2016', '2017', '2018', '2019'],
+  labels: [null, '2015', '2016', '2017', '2018', '2019', null],
   datasets: [
     {
       label: 'All Star Low Tops',
