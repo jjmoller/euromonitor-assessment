@@ -2,7 +2,7 @@
   <div class="signature">
     <img src="https://styleguide.euromonitor.com/assets/images/brand-guide/passport/the-signature/vertical-lockup.png">
   </div>
-  <h1>Price of Converse Chuck Taylor All Star High School</h1>
+  <h1>Price of Converse Chuck Taylor All Star High Shoes</h1>
   <span class="subheading">Graphed over a time period from 2015-2016</span>
   <span class="subheading">Price depicted is the average between three retailers</span>
   <div id="chart-container">
