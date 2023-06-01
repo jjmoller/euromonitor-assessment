@@ -1,18 +1,18 @@
 <script>
 export const data = {
-  labels: ['2015', '2016', '2017', '2018', '2019'],
+  labels: [null, '2015', '2016', '2017', '2018', '2019'],
   datasets: [
     {
       label: 'All Star Low Tops',
       backgroundColor: '#34657f',
       borderColor: '#34657f',
-      data: [595, 607, 650, 667, 669]
+      data: [null ,595, 607, 650, 667, 669]
     },
     {
       label: 'All Star High Tops',
       backgroundColor: '#00aed9',
       borderColor: '#00aed9',
-      data: [644, 702, 746, 737, 749]
+      data: [null, 644, 702, 746, 737, 749]
     }
   ]
 }
