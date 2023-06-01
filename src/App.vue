@@ -50,6 +50,7 @@ export default {
 
 <scss>
   body {
+    background-color: #fff;
     display: absolute;
     margin: auto;
 
